@@ -36,15 +36,15 @@ I love turning ideas into real-world digital products using clean and efficient 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmu14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMujahidDev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedmu14&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AhmedMujahidDev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmu14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMujahidDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
