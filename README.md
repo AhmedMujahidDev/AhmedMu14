@@ -29,11 +29,6 @@ I love turning ideas into real-world digital products using clean and efficient 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
   </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedMujahidDev&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 🌐 Connect With Me
 
